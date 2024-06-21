@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(to top left, #008B74 40%, #0373B0 70%);
+  background-position:center;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  background-color: #008B74;
+}
+
+.btn:hover {
+  background-color: #3f756c;
+}
+legend {
+  background-color: black;
+  color: white;
+  padding-top:5px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+fieldset {
+  border: 2px solid #008B74;
+  border-radius: 10px;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.alert {
+  padding: 1px;
+  font-size: 14px;
+}
+.alert .btn-close {
+  padding: 6px 5px;
+  font-size: 10px;
+  border-inline-color: none;
+}

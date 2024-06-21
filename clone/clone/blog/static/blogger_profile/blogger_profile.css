@@ -1,0 +1,17 @@
+.detail{
+    background-color: azure;
+    border: 1px azure solid;
+    border-radius: 9px;
+    color: black;
+    width: 35%;
+    overflow-wrap: break-word;
+}
+.container-sm{
+    width: 100%;
+}
+
+@media screen and (max-width: 550px) {
+    .detail {
+        width: 90%;
+    }
+}

@@ -1,0 +1,9 @@
+.alert .btn-close {
+    padding: 6px 5px;
+    font-size: 10px;
+    border-inline-color: none;
+}
+.alert {
+    padding: 1px;
+    font-size: 14px;
+}
